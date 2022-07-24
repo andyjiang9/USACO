@@ -1,0 +1,18 @@
+sorting and sets
+binary search on a sorted array 2
+sorting with custom compartors 3
+more operations on ordered sets 2
+c++ sets with custom comparators 1
+
+misc. topics
+prefix sums 3
+two pointers 2
+binary search on th asnwer 3
+greedy algorithms with sorting 3
+
+graphs
+DFS 4
+graph two-coloring 1
+flood fill 3
+introduction to tree algorithms 1
+introduction to functional graphs 1
